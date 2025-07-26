@@ -12,7 +12,7 @@ const cors = require('cors')
 
 
 app.use(cors({
-    origin: 'https://code-ace-frontend.vercel.app',
+    origin: 'https://code-acenew-front.vercel.app',
     credentials: true 
 }))
 
